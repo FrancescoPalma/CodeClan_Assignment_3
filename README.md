@@ -20,9 +20,8 @@ User presses up arrow or space bar (or tap screen in Android) to make diver or f
   
 #### Day 1  
 Today I've been working on the planning of the app, drawing the screens and using the white board to think about the structure of the code, the assets for the game, the main functionalities.  
-I've focused a lot on the story and the meaning of the game as I am always oriented in creating a meaningful UX of any software I build, even if it's small or just for educational purposes I still work on it as if it were something to deliver to a client. In this case the 'client' is the degree of happiness I feel while building it :)
-i found really beneficial to share thoughts with other coworkers who are going to build the same app.
-Even if we are all going to build our own project with our own structure and style I think it's important to share first some ideas and collaborate before tackling the project.  
+I've focused a lot on the story and the meaning of the game as I am always oriented in creating a meaningful UX of any software I build, even if it's small or just for educational purposes I still work on it as if it were something to deliver to a client. In this case the 'client' is the degree of happiness and commitment I feel while building it :)  
+I found really beneficial to share thoughts with other coworkers who are going to build the same app.  
 Can't wait to start tomorrow, I'm fired up! :fire:  
   
 #### Day 2
