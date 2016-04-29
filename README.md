@@ -1,4 +1,4 @@
-# KittyTheWhale® :whale:  
+# :whale:  KittyTheWhale®  
   
 This is my second Solo Project at CodeClan, Cohort3.  
 We have to choose [_**one**_ among the following ideas](https://github.com/FrancescoPalma/CodeClan_Assignment_3/blob/master/project_definitions.md) and build an application according to the specs of the related project.  
@@ -17,7 +17,6 @@ User presses up arrow or space bar (or tap screen in Android) to make diver or f
 * Fish must avoid sharks and eat algae to score extra points 
 
 ## My App Journal | Your App Guide  
-I've decided to post here a daily journal with the purpose to give you the opportunity to enjoy your time on this Repo.  
   
 #### Day 1
     
