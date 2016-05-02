@@ -24,6 +24,9 @@ I've focused a lot on the story and the meaning of the game as I am always orien
 I found really beneficial to share thoughts with other coworkers who are going to build the same app.  
 Can't wait to start tomorrow, I'm fired up! :fire:  
   
-#### Day 2
+#### Day 2 - 3  
+During the weekend I enjoyed spending some time off, especially Sunday afternoon. Nevertheless, I focused on the design of the game. I followed a few tutorials on how to structure a little android game - in this case how to create a 'Flappy Bird' clone - from design to code, from graphics to sprites and animations. I understand how much time it takes to create a complete game. I am currently spending a lot of time on searching for the 'Assets' such as fonts, pictures (make them 'responsive' by storing them in xxhdpi, xhdpi, hdpi, mdpi and ldpi extensions. So, in a few words, a lot of layout design, Photoshop and some Illustrator. Now the graphics and the UI are pretty clear in my head and I've almost everything ready for that. I've also set up the files and classes structure of the app itself in Java. After following tutorials I have a better idea of what it looks like to start building a game, not an easy business at all. But quite fun to be honest! Worth the time :) Ready to start Day 4!  
+  
+#### Day 4
     
 2016 © Francesco Palma - This project is registered under the [MIT License](https://github.com/FrancescoPalma/CodeClan_Assignment_3/blob/master/License)
