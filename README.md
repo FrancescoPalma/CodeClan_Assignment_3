@@ -32,6 +32,11 @@ I am currently spending a lot of time on searching for the 'Assets' such as font
 I've also set up the files and classes structure of the app itself in Java.  
 After following tutorials I have a better idea of what it looks like to start building a game, not an easy business at all. But quite fun to be honest! Worth the time :) Ready to start Day 4!  
   
-#### Day 4
+#### Day 4  
+Today I've been spending a lot of time on the setting the main game engine, the layouts, styles, canvas, etc.  
+Since the graphics and the assets (fonts, sounds, pictures, cards) are ready and they just need to be tested once the app works, I am quite happy and by Wednesdy morning I should be able to spend the last day available testing and fixing - if necessary - the UI.  
+I feel pretty confident and I am enjoying a lot even though I understand how difficult and time-consuming is to make a game compared to an average app.  
+  
+#### Day 5
     
 2016 © Francesco Palma - This project is registered under the [MIT License](https://github.com/FrancescoPalma/CodeClan_Assignment_3/blob/master/License)
