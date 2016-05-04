@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <!-- overall game speed - higher value is faster - this is the FPS - default value is 50 -->
+        <integer name="overallgamespeed">50</integer>
+
+        <!-- horizontal distance between columns - higher value is wider gap - default value is 200 -->
+        <integer name="distancebetweencolumns">200</integer> 
+         
+        <!-- speed of columns moving right to left - lower value is faster speed - default value is 75 -->
+        <integer name="wallspeed">75</integer>
+        
+        <!-- gap between upper and lower column - lower value is bigger gap - default value is 3.6 -->
+        <item name="wallgap" format="float" type="dimen">3.5</item>
+        
+        <!-- whale fall speed - lower value is faster speed - default value is 290 -->
+        <integer name="whalefallspeed">290</integer>
+        
+        <!-- whale acceleration down speed - lower value is faster speed - default value is 290 -->
+        <integer name="whaleaccelerationspeed">290</integer>
+        
+        <!-- whale jump height - how high the whale jumps when you touch the screen - smaller value is higher jump - default value is 43.53 -->
+        <item name="whalejumpheight" format="float" type="dimen">43.53</item>
+
+        <!-- score text size - change this number to change the size of the score text - bigger number is bigger text - default value is 50 -->
+        <item name="scoretextsize" type="dimen">50sp</item>
+
+        <!-- score from top - how far down from the top of the screen the score is displayed - lower number is bigger gap - default value is 36 -->
+        <integer name="scorefromtop">36</integer>
+    </resources>
