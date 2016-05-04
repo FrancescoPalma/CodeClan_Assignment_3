@@ -38,7 +38,7 @@ Since the graphics and the assets (fonts, sounds, pictures, cards) are ready and
 I feel pretty confident and I am enjoying a lot even though I understand how difficult and time-consuming is to make a game compared to an average app.  
   
 #### Day 5 - 6  
-My game is now finished, it's been a challenging but fun adventure and I am currently in the process of deploying the game to the Google Play Store! The linke to download the app will be available on this Repo once ready!  
+My game is now finished, it's been a challenging but fun adventure and I am currently in the process of deploying the game to the Google Play Store! The link to download the app will be available on this Repo once ready!  
   
 ## Ready to Launch! :rocket:
     
