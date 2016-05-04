@@ -37,6 +37,10 @@ Today I've been spending a lot of time on the setting the main game engine, the 
 Since the graphics and the assets (fonts, sounds, pictures, cards) are ready and they just need to be tested once the app works, I am quite happy and by Wednesdy morning I should be able to spend the last day available testing and fixing - if necessary - the UI.  
 I feel pretty confident and I am enjoying a lot even though I understand how difficult and time-consuming is to make a game compared to an average app.  
   
-#### Day 5
+#### Day 5 - 6  
+My game is now finished, it's been a challenging but fun adventure and I am currently in the process of deploying the game to the Google Play Store! The linke to download the app will be available on this Repo once ready!  
+  
+## Ready to Launch! :rocket:  
+The App is now ready [Here!]() 
     
 2016 © Francesco Palma - This project is registered under the [MIT License](https://github.com/FrancescoPalma/CodeClan_Assignment_3/blob/master/License)
