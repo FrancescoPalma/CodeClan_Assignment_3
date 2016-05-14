@@ -40,6 +40,7 @@ I feel pretty confident and I am enjoying a lot even though I understand how dif
 #### Day 5 - 6  
 My game is now finished, it's been a challenging but fun adventure and I am currently in the process of deploying the game to the Google Play Store! The link to download the app will be available on this Repo once ready!  
   
-## Ready to Launch! :rocket:
+## Ready to Launch! :rocket:  
+The App is available for free [here](https://play.google.com/store/apps/details?id=com.francesco_p.kitty_whale_game)
     
 2016 © Francesco Palma - This project is registered under the [MIT License](https://github.com/FrancescoPalma/CodeClan_Assignment_3/blob/master/License)
